@@ -1,0 +1,99 @@
+[submodule "gcc"]
+	path = gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "bash-wakatime"]
+	path = bash-wakatime
+	url = https://github.com/gjsheep/bash-wakatime.git
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/tmux/tmux.git
+[submodule "neovim"]
+	path = neovim
+	url = https://github.com/neovim/neovim.git
+[submodule "vim-plug"]
+	path = vim-plug
+	url = https://github.com/junegunn/vim-plug.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "wolfram-GitLink"]
+	path = wolfram-GitLink
+	url = https://github.com/WolframResearch/GitLink.git
+[submodule "libsodium"]
+	path = libsodium
+	url = https://github.com/jedisct1/libsodium.git
+[submodule "powerline-fonts"]
+	path = powerline-fonts
+	url = https://github.com/powerline/fonts.git
+[submodule "libzmq"]
+	path = libzmq
+	url = https://github.com/zeromq/libzmq.git
+[submodule "listen1"]
+	path = listen1
+	url = https://github.com/listen1/listen1.git
+[submodule "mxe"]
+	path = mxe
+	url = https://github.com/mxe/mxe.git
+[submodule "powerline-shell"]
+	path = powerline-shell
+	url = https://github.com/b-ryan/powerline-shell.git
+[submodule "Rubi"]
+	path = Rubi
+	url = https://github.com/RuleBasedIntegration/Rubi.git
+[submodule "RubiSteps"]
+	path = RubiSteps
+	url = https://github.com/asdasd1dsadsa/RubiSteps.git
+[submodule "wolfram-SetReplace"]
+	path = wolfram-SetReplace
+	url = https://github.com/maxitg/SetReplace.git
+[submodule "template-white-elephant"]
+	path = template-white-elephant
+	url = https://github.com/Gravifer/template-white-elephant.git
+[submodule "Qv2ray"]
+	path = Qv2ray
+	url = https://github.com/Qv2ray/Qv2ray.git
+[submodule "v2rayN"]
+	path = v2rayN
+	url = https://github.com/2dust/v2rayN.git
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
+[submodule "vscode-lsp-wl"]
+	path = vscode-lsp-wl
+	url = https://github.com/kenkangxgwe/vscode-lsp-wl.git
+[submodule "wolfram-codeparser"]
+	path = wolfram-codeparser
+	url = https://github.com/WolframResearch/codeparser.git
+[submodule "wolfram-codeinspector"]
+	path = wolfram-codeinspector
+	url = https://github.com/WolframResearch/codeinspector.git
+[submodule "WolframLanguageForJupyter"]
+	path = WolframLanguageForJupyter
+	url = https://github.com/WolframResearch/WolframLanguageForJupyter.git
+[submodule "WolframClientForPython"]
+	path = WolframClientForPython
+	url = https://github.com/WolframResearch/WolframClientForPython.git
+[submodule "iwolfram"]
+	path = iwolfram
+	url = https://github.com/mmatera/iwolfram.git
+[submodule "Mathics"]
+	path = Mathics
+	url = https://github.com/mathics/Mathics.git
+[submodule "MathLink.jl"]
+	path = MathLink.jl
+	url = https://github.com/JuliaInterop/MathLink.jl.git
+[submodule "wolfram-FEMAddOns"]
+	path = wolfram-FEMAddOns
+	url = https://github.com/WolframResearch/FEMAddOns.git
+[submodule "Arrival-Movie-Live-Coding"]
+	path = Arrival-Movie-Live-Coding
+	url = https://github.com/WolframResearch/Arrival-Movie-Live-Coding.git
+[submodule "three.js"]
+	path = three.js
+	url = https://github.com/mrdoob/three.js.git
+[submodule "gh-cli"]
+	path = gh-cli
+	url = https://github.com/cli/cli.git
+[submodule "lsp-wl"]
+	path = lsp-wl
+	url = https://github.com/kenkangxgwe/lsp-wl.git
