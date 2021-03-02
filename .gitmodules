@@ -97,3 +97,15 @@
 [submodule "lsp-wl"]
 	path = lsp-wl
 	url = https://github.com/kenkangxgwe/lsp-wl.git
+[submodule "libgit2"]
+	path = libgit2
+	url = https://github.com/libgit2/libgit2.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "libssh2"]
+	path = libssh2
+	url = https://github.com/libssh2/libssh2.git
+[submodule "WSL-Hello-sudo"]
+	path = WSL-Hello-sudo
+	url = https://github.com/nullpo-head/WSL-Hello-sudo.git
