@@ -1,110 +1,110 @@
 [submodule "gcc"]
-	path = gcc
+	path = Libraries/gcc
 	url = git://gcc.gnu.org/git/gcc.git
 [submodule "bash-wakatime"]
 	path = bash-wakatime
 	url = https://github.com/gjsheep/bash-wakatime.git
 [submodule "tmux"]
-	path = tmux
+	path = Tools/tmux
 	url = https://github.com/tmux/tmux.git
 [submodule "neovim"]
-	path = neovim
+	path = Tools/neovim
 	url = https://github.com/neovim/neovim.git
 [submodule "vim-plug"]
-	path = vim-plug
+	path = Tools/vim-plug
 	url = https://github.com/junegunn/vim-plug.git
 [submodule "FFmpeg"]
-	path = FFmpeg
+	path = Tools/FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg.git
 [submodule "wolfram-GitLink"]
-	path = wolfram-GitLink
+	path = Wolfram/wolfram-GitLink
 	url = https://github.com/WolframResearch/GitLink.git
 [submodule "libsodium"]
-	path = libsodium
+	path = Libraries/libsodium
 	url = https://github.com/jedisct1/libsodium.git
 [submodule "powerline-fonts"]
 	path = powerline-fonts
 	url = https://github.com/powerline/fonts.git
 [submodule "libzmq"]
-	path = libzmq
+	path = Libraries/libzmq
 	url = https://github.com/zeromq/libzmq.git
 [submodule "listen1"]
-	path = listen1
+	path = Tools/listen1
 	url = https://github.com/listen1/listen1.git
 [submodule "mxe"]
-	path = mxe
+	path = Libraries/mxe
 	url = https://github.com/mxe/mxe.git
 [submodule "powerline-shell"]
 	path = powerline-shell
 	url = https://github.com/b-ryan/powerline-shell.git
 [submodule "Rubi"]
-	path = Rubi
+	path = Wolfram/Rubi
 	url = https://github.com/RuleBasedIntegration/Rubi.git
 [submodule "RubiSteps"]
-	path = RubiSteps
+	path = Wolfram/RubiSteps
 	url = https://github.com/asdasd1dsadsa/RubiSteps.git
 [submodule "wolfram-SetReplace"]
-	path = wolfram-SetReplace
+	path = Wolfram/wolfram-SetReplace
 	url = https://github.com/maxitg/SetReplace.git
 [submodule "template-white-elephant"]
-	path = template-white-elephant
+	path = Templates/template-white-elephant
 	url = https://github.com/Gravifer/template-white-elephant.git
 [submodule "Qv2ray"]
-	path = Qv2ray
+	path = Tunneling/Qv2ray
 	url = https://github.com/Qv2ray/Qv2ray.git
 [submodule "v2rayN"]
-	path = v2rayN
+	path = Tunneling/v2rayN
 	url = https://github.com/2dust/v2rayN.git
 [submodule "vcpkg"]
-	path = vcpkg
+	path = Tools/vcpkg
 	url = https://github.com/microsoft/vcpkg.git
 [submodule "vscode-lsp-wl"]
-	path = vscode-lsp-wl
+	path = Wolfram/vscode-lsp-wl
 	url = https://github.com/kenkangxgwe/vscode-lsp-wl.git
 [submodule "wolfram-codeparser"]
-	path = wolfram-codeparser
+	path = Wolfram/wolfram-codeparser
 	url = https://github.com/WolframResearch/codeparser.git
 [submodule "wolfram-codeinspector"]
-	path = wolfram-codeinspector
+	path = Wolfram/wolfram-codeinspector
 	url = https://github.com/WolframResearch/codeinspector.git
 [submodule "WolframLanguageForJupyter"]
-	path = WolframLanguageForJupyter
+	path = Wolfram/WolframLanguageForJupyter
 	url = https://github.com/WolframResearch/WolframLanguageForJupyter.git
 [submodule "WolframClientForPython"]
-	path = WolframClientForPython
+	path = Wolfram/WolframClientForPython
 	url = https://github.com/WolframResearch/WolframClientForPython.git
 [submodule "iwolfram"]
-	path = iwolfram
+	path = Wolfram/iwolfram
 	url = https://github.com/mmatera/iwolfram.git
 [submodule "Mathics"]
-	path = Mathics
+	path = Wolfram/Mathics
 	url = https://github.com/mathics/Mathics.git
 [submodule "MathLink.jl"]
-	path = MathLink.jl
+	path = Wolfram/MathLink.jl
 	url = https://github.com/JuliaInterop/MathLink.jl.git
 [submodule "wolfram-FEMAddOns"]
-	path = wolfram-FEMAddOns
+	path = Wolfram/wolfram-FEMAddOns
 	url = https://github.com/WolframResearch/FEMAddOns.git
 [submodule "Arrival-Movie-Live-Coding"]
-	path = Arrival-Movie-Live-Coding
+	path = Wolfram/Projects/Arrival-Movie-Live-Coding
 	url = https://github.com/WolframResearch/Arrival-Movie-Live-Coding.git
 [submodule "three.js"]
-	path = three.js
+	path = Libraries/three.js
 	url = https://github.com/mrdoob/three.js.git
 [submodule "gh-cli"]
-	path = gh-cli
+	path = Tools/gh-cli
 	url = https://github.com/cli/cli.git
 [submodule "lsp-wl"]
-	path = lsp-wl
+	path = Wolfram/lsp-wl
 	url = https://github.com/kenkangxgwe/lsp-wl.git
 [submodule "libgit2"]
-	path = libgit2
+	path = Libraries/libgit2
 	url = https://github.com/libgit2/libgit2.git
 [submodule "openssl"]
-	path = openssl
+	path = Libraries/openssl
 	url = https://github.com/openssl/openssl.git
 [submodule "libssh2"]
-	path = libssh2
+	path = Libraries/libssh2
 	url = https://github.com/libssh2/libssh2.git
 [submodule "WSL-Hello-sudo"]
 	path = WSL-Hello-sudo
