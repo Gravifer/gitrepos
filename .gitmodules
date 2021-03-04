@@ -2,7 +2,7 @@
 	path = Libraries/gcc
 	url = git://gcc.gnu.org/git/gcc.git
 [submodule "bash-wakatime"]
-	path = bash-wakatime
+	path = Tools/bash-wakatime
 	url = https://github.com/gjsheep/bash-wakatime.git
 [submodule "tmux"]
 	path = Tools/tmux
