@@ -1,3 +1,4 @@
 - match:
     dependency_type: all
     pdate_type: all # "semver:minor" # includes patch updates!
+- github-token: ${{secrets.GH_TOKEN}}
