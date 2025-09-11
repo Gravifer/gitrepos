@@ -1,5 +1,14 @@
 {
   "extends": [
-    "config:base"
+    "config:recommended"
+  ],
+  "github-actions": {
+    "enabled": true
+  },
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "GitHub Actions"
+    }
   ]
 }
